@@ -3,7 +3,7 @@
 ## What is this repository about
 When I do some works, I would love to share with people and exchange the knowledges, in this case, we can learn from each other and help each other to improve the coding skills. I put some analytic projects that I have done by using Python in this file, I will love to see how people put their opinion on it and also you can feel free to take some of my codes as the reference in your works.
 
-👋 ## Introduction
+## Introduction
 
 This repository contains data analysis projects that demonstrates the complete data analysis process from data collection to insights drawn and presenting the recommendations in the form of visualisations. The project aims to provide insights into real-world problems and solve them using data analysis techniques.
 
